@@ -1,0 +1,19 @@
+
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "outDir": "./build",
+    "rootDir": "./src",
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "esnext",
+    "types": []
+  },
+  "files": [
+    "./src/script.ts",
+    "./src/v-module-config.ts"
+  ],
+  "exclude": [
+    "E:/TYPEScript/dist"
+  ]
+}
